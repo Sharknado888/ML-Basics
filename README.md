@@ -1,2 +1,2 @@
-# ML-Basics
-These projects deal with basic ML implementations from scratch
+# AMSGrad implementation
+Implementing AMSGrad from scratch
