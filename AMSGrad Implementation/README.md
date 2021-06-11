@@ -1,4 +1,4 @@
-<b>Implementation of AMSGrad Optimization algorithm from scratch<b>
+# Implementation of AMSGrad Optimization algorithm from scratch
 <br>
 <br>
   
